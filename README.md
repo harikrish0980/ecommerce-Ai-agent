@@ -33,11 +33,10 @@ Over 500,000 real e-commerce transactions from a UK retailer.
 - Multi-question handling
 - Sample questions sidebar
 
-#Sample out put
+## Sample Questions & Answers
 ### Revenue by Country - Table + Auto Chart
 ![Revenue by Country](screenshot.png)
 
-## Sample Questions & Answers
 
 **Q: What are the top 5 countries by revenue?**
 | Country | Revenue |
@@ -60,6 +59,6 @@ Over 500,000 real e-commerce transactions from a UK retailer.
 | 18102 | 259,657 |
 | 17450 | 194,550 |
 
-#Screenshots
-<img width="1404" height="339" alt="image" src="https://github.com/user-attachments/assets/a7851dad-4232-46c4-a691-9f655c5d0d85" />
-<img width="1472" height="930" alt="image" src="https://github.com/user-attachments/assets/45acbf79-ff43-433b-8b12-4f7b34d51ef5" />
+##Screenshots
+-<img width="1404" height="339" alt="image" src="https://github.com/user-attachments/assets/a7851dad-4232-46c4-a691-9f655c5d0d85" />
+-<img width="1472" height="930" alt="image" src="https://github.com/user-attachments/assets/45acbf79-ff43-433b-8b12-4f7b34d51ef5" />
