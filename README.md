@@ -1,6 +1,6 @@
 # E-commerce AI Agent 🛒
 
-An AI-powered business intelligence tool that lets you query e-commerce sales data using plain English questions.
+An AI-powered business intelligence tool that lets users query e-commerce sales data using plain English questions.
 
 ## What it does
 - Ask any business question about sales data in plain English
